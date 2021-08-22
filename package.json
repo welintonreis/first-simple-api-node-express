@@ -1,0 +1,17 @@
+{
+  "name": "tentativa_3",
+  "version": "1.0.0",
+  "main": "./backend/root/src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon",
+    "debuger": "nodemon --inspect"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
